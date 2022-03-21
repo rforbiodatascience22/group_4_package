@@ -1,2 +1,6 @@
-^mypkgname\.Rproj$
+^replication_group4\.Rproj$
 ^\.Rproj\.user$
+^mypkgname\.Rcheck$
+^mypkgname.*\.tar\.gz$
+^mypkgname.*\.tgz$
+^LICENSE\.md$
