@@ -1,4 +1,4 @@
-#' Translation of DNA into RNA
+#' Transcription of DNA into RNA
 #'
 #' @param DNA
 #'
@@ -7,9 +7,9 @@
 #'
 #' @examples
 #'
-#' T_to_U("ACTUATAUATAUATA")
+#' transcription("ACTUATAUATAUATA")
 #'
-T_to_U <- function(DNA){
+transcription <- function(DNA){
   RNA <- gsub("T", "U", DNA)
   return(RNA)
 }
