@@ -4,7 +4,7 @@
 #'
 #' @param seq_size
 #'
-#' @return complete_seq
+#' @return
 #' @export
 #'
 #'
