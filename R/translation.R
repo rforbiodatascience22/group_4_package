@@ -6,8 +6,8 @@
 #' @export
 #'
 #' @examples
-#' codon_to_AA("UAG")
-#' codon_to_AA(c("UUU","GAA"))
+#' translation("UAG")
+#' translation(c("UUU","GAA"))
 translation <- function(codons){
   AA_seq <- paste0(codon_table[codons], collapse = "")
   return(AA_seq)
