@@ -5,3 +5,6 @@
 ^mypkgname.*\.tgz$
 ^LICENSE\.md$
 
+^replication_group4\.Rcheck$
+^replication_group4.*\.tar\.gz$
+^replication_group4.*\.tgz$

@@ -7,3 +7,6 @@ mypkgname.Rcheck/
 mypkgname*.tar.gz
 mypkgname*.tgz
 
+replication_group4.Rcheck/
+replication_group4*.tar.gz
+replication_group4*.tgz
