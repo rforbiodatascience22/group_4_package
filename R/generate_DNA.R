@@ -1,5 +1,5 @@
 
-#' Generate DNA sequence
+#' Random DNA sequence generator
 #'
 #' @param seq_size
 #'
