@@ -2,7 +2,7 @@
 % Please edit documentation in R/generate_DNA.R
 \name{DNA_seq}
 \alias{DNA_seq}
-\title{DNA sequence generator}
+\title{Generate DNA sequence}
 \usage{
 DNA_seq(seq_size)
 }
@@ -13,5 +13,9 @@ DNA_seq(seq_size)
 complete_seq
 }
 \description{
-DNA sequence generator
+Generate DNA sequence
+}
+\examples{
+
+generate_DNA(125)
 }
