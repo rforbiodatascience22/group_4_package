@@ -2,5 +2,7 @@
 
 export(creates_codons)
 export(generate_DNA)
+export(hist_from_seq)
 export(transcription)
 export(translation)
+importFrom(magrittr,"%>%")
