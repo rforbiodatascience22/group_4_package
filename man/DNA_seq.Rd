@@ -10,7 +10,7 @@ DNA_seq(seq_size)
 \item{seq_size}{}
 }
 \value{
-complete_seq
+
 }
 \description{
 Creates a random DNA sequence of a size specified by the user.
